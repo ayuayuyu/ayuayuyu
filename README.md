@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 -->
 
 
-### My Porfile site
+### My Profile site
 [ayuayuyu](https://ayuayuyu.dev/)
