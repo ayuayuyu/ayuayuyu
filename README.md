@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuayuyu&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayuayuyu&theme=ayu-mirage" alt="GitHub Streak" />
 </div>
 
 <div align="center">
