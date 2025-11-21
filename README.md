@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 <td width="50%" align="center" valign="top">
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,go,git,prisma,firebase" />
+<img src="https://skillicons.dev/icons?i=go,fastapi,nodejs,nestjs,prisma,firebase" />
 
 ### 🛢️ **Database & Infrastructure**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,cloudflare" />
 
 ### 🧰 **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,github,md" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,md" />
 
 </td>
 <td width="50%" align="center" valign="top">
