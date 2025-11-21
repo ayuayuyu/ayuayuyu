@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=golang" width="100" height="100" alt="Golang" />
-<br><strong>Go</strong>
+<img src="https://ayuayuyu.dev/_next/static/media/icon.84314f48.webp" width="100" height="100" alt="MyIcon" />
+<br><strong>ayuayuyu</strong>
 </td>
 <td width="650" align="left">
 
